@@ -1,0 +1,4 @@
+2023-08-28 10:31:17,507 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 27584 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-28 10:31:17,515 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-28 10:31:17,516 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-28 10:31:22,600 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 5.45 seconds (process running for 7.33)

@@ -1,0 +1,10 @@
+2023-08-10 10:48:22,148 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9091"]
+2023-08-10 10:48:22,152 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-10 10:48:22,152 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-10 10:48:22,283 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-10 10:48:24,290 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9091"]
+2023-08-10 11:13:54,446 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9091"]
+2023-08-10 11:13:54,447 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-10 11:13:54,447 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-10 11:13:54,540 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-10 11:13:56,050 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9091"]

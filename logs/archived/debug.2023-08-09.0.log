@@ -1,0 +1,12 @@
+2023-08-09 11:21:25,276 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 20912 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-09 11:21:25,282 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-09 11:21:25,283 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-09 11:21:27,944 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 3.192 seconds (process running for 3.786)
+2023-08-09 11:31:06,017 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 1324 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-09 11:31:06,018 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-09 11:31:06,019 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-09 11:31:10,518 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 4.785 seconds (process running for 6.238)
+2023-08-09 11:31:31,798 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 18968 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-09 11:31:31,799 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-09 11:31:31,800 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-09 11:31:35,104 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 3.68 seconds (process running for 4.273)

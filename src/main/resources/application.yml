@@ -1,0 +1,59 @@
+server:
+  port: 9091
+management:
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: [ "health","prometheus", "metrics" ]
+  endpoint:
+    health:
+      show-details: always
+    metrics:
+      enabled: true
+    prometheus:
+      enabled: true
+
+services:
+  authService:
+    baseUrl: http://keycloak:8080
+    keycloakBaseUrl: /auth/admin/realms/
+    realmsName: wallet
+
+keycloak:
+  admin:
+    username: testuser
+    password: testuser
+    grant_type: password
+    client_id: admin-rest-client
+    tokenUrl: /auth/realms/wallet/protocol/openid-connect/token
+
+
+logging:
+  level:
+    root: INFO
+    org.springframework: ERROR
+    com.msys.authservice: DEBUG
+  pattern:
+    console: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+    file: "%d %p %c{1.} [%t] %m%n"
+  file: auth.log
+
+spring:
+  cache:
+    type: redis
+    cache-name: User
+    redis:
+      time-to-live: 50000
+  redis:
+    host: redis
+    port: 6379
+    password: redispw
+
+spring.redis:
+  cluster:
+    nodes:
+      - redis1:32768
+      - redis2:32768
+    enabled: true
+

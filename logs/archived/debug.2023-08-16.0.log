@@ -1,0 +1,32 @@
+2023-08-16 10:59:14,467 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 28168 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 10:59:14,475 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 10:59:14,475 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:59:19,823 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 5.715 seconds (process running for 7.741)
+2023-08-16 10:59:45,091 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 19320 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 10:59:45,092 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 10:59:45,093 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:59:48,791 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 4.169 seconds (process running for 4.882)
+2023-08-16 11:07:41,282 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 7248 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 11:07:41,284 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 11:07:41,288 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 11:07:59,372 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 19.325 seconds (process running for 25.119)
+2023-08-16 11:09:49,369 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 6600 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 11:09:49,371 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 11:09:49,373 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 11:09:58,562 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 10.22 seconds (process running for 11.6)
+2023-08-16 13:02:18,072 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 16432 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 13:02:18,074 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 13:02:18,074 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 13:02:24,263 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 6.592 seconds (process running for 8.623)
+2023-08-16 13:02:46,527 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 21648 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 13:02:46,530 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 13:02:46,533 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 13:02:51,577 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 5.871 seconds (process running for 6.943)
+2023-08-16 14:41:53,509 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Starting AuthserviceApplicationTests using Java 17.0.8 with PID 22080 (started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 14:41:53,510 [Test worker] DEBUG c.m.a.AuthserviceApplicationTests                  - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 14:41:53,511 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 14:41:58,352 [Test worker] INFO  c.m.a.AuthserviceApplicationTests                  - Started AuthserviceApplicationTests in 5.205 seconds (process running for 7.023)
+2023-08-16 14:44:19,754 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 23108 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-16 14:44:19,755 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-16 14:44:19,755 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-16 14:44:22,601 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 3.366 seconds (process running for 3.937)

@@ -1,0 +1,4 @@
+2023-08-29 10:40:18,343 [main] INFO  c.m.authservice.AuthServiceApplication             - Starting AuthServiceApplication using Java 17.0.8 with PID 27824 (D:\Documents\FE - Digital wallet\AuthService-main\build\classes\java\main started by jrajan in D:\Documents\FE - Digital wallet\AuthService-main)
+2023-08-29 10:40:18,350 [main] DEBUG c.m.authservice.AuthServiceApplication             - Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-08-29 10:40:18,351 [main] INFO  c.m.authservice.AuthServiceApplication             - No active profile set, falling back to 1 default profile: "default"
+2023-08-29 10:40:21,935 [main] INFO  c.m.authservice.AuthServiceApplication             - Started AuthServiceApplication in 4.084 seconds (process running for 4.783)

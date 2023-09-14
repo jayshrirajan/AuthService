@@ -1,0 +1,50 @@
+{
+  "realm": "wallet",
+  "enabled": true,
+  "users": [
+    {
+      "username": "testuser",
+      "enabled": true,
+      "credentials": [
+        {
+          "type": "password",
+          "value": "testuser",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "testuser1",
+      "enabled": true,
+      "credentials": [
+        {
+          "type": "password",
+          "value": "testuser1",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "testuser2",
+      "enabled": true,
+      "credentials": [
+        {
+          "type": "password",
+          "value": "testuser1",
+          "temporary": false
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "clientId": "admin-rest-client",
+      "enabled": true,
+      "redirectUris": ["*"],
+      "protocol": "openid-connect",
+      "publicClient": true,
+      "standardFlowEnabled": true,
+      "directAccessGrantsEnabled": true
+    }
+  ]
+}

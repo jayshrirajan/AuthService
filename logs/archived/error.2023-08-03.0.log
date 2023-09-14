@@ -1,0 +1,106 @@
+2023-08-03 15:29:00,067 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:29:00,068 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:29:00,068 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:29:00,164 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:29:01,916 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:37,988 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:37,990 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:32:37,990 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:32:38,112 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:32:39,533 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:39,549 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:39,549 [main] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-08-03 15:32:39,554 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:39,554 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:32:39,577 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9092 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9092 or configure this application to listen on another port.
+
+2023-08-03 15:35:38,684 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:35:38,685 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:35:38,685 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:35:38,781 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:35:40,219 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:36:20,018 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:36:20,020 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:36:20,020 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:36:20,119 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:36:21,512 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:37:28,995 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:37:28,996 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:37:28,996 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:37:29,094 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:37:30,528 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:39:37,926 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:39:37,928 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:39:37,928 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:39:38,073 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:39:40,236 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:17,181 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:17,182 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:42:17,182 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:42:17,284 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:42:18,901 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:18,918 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:18,919 [main] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-08-03 15:42:18,924 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:18,925 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:18,948 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9092 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9092 or configure this application to listen on another port.
+
+2023-08-03 15:42:44,644 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:42:44,644 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:42:44,644 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:42:44,737 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:42:46,323 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:47:59,291 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9091"]
+2023-08-03 15:47:59,292 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:47:59,292 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:47:59,390 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:48:00,790 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9091"]
+2023-08-03 15:48:42,434 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:48:42,436 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:48:42,436 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:48:42,541 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:48:44,029 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 15:51:05,958 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2023-08-03 15:51:05,958 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 15:51:05,958 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 15:51:06,053 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 15:51:07,462 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2023-08-03 16:13:38,606 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 16:13:38,606 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 16:13:38,606 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 16:13:38,700 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 16:13:40,164 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 17:14:48,438 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 17:14:48,439 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 17:14:48,439 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 17:14:48,542 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 17:14:50,075 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
+2023-08-03 17:35:56,073 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9092"]
+2023-08-03 17:35:56,074 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-08-03 17:35:56,074 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-08-03 17:35:56,165 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-08-03 17:35:57,660 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9092"]
